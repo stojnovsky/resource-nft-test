@@ -1,0 +1,12 @@
+{
+	"name": "GAS-NFT",
+	"description": "Provide 50%",
+	"image": "https://raw.githubusercontent.com/stojnovsky/resource-nft-test/main/resources/50.jpg",
+	"edition": 1,
+	"attributes": [
+		{
+			"trait_type": "Item",
+			"value": "Refinery"
+		}
+	]
+}
